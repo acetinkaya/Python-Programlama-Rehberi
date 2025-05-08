@@ -321,3 +321,9 @@ IEEE--> A. Cetinkaya, "Python Programlama Dili Rehberi" GitHub, [Online]. Erişi
 APA--> Cetinkaya, A. (2025). Python Programlama Dili Rehberi [GitHub Deposu]. GitHub. Erişim Linki: https://github.com/acetinkaya/Python-Programlama-Rehberi . Son Erişim Tarihi: Gün Ay Yıl.
 
 ---
+
+---
+
+Yukarıdaki bilgi, resim ve kod çalışmaları açık kaynak paylaşım olarak GitHub "acetinkaya" alanında paylaşımı yapılmıştır.
+
+
