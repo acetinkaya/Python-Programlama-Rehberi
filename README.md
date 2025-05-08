@@ -340,4 +340,6 @@ The above information, images, and code examples are shared as open-source conte
 Project Status: The relevant posts and software codes written in the Python programming language will be updated as new versions are released. You can support my work by giving a star to the repository on GitHub. Knowledge grows and develops as it is shared.
 Contributing: Forks and pull requests are warmly welcomed. For major changes, please first open a question-answer thread indicating which Python code you want to modify to discuss your proposal. Knowledge multiplies and improves when shared. Best wishes for your work!
 
+Author and Maintainer: [Lect. Ali Cetinkaya (MSc.)](https://github.com/acetinkaya) - 2025
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
