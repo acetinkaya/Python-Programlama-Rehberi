@@ -53,3 +53,8 @@ GUN_SAYISI = 7            # sabit gibi kullanılan değişken (int)
 3. Operatörler
 
 3.1 Aritmetik Operatörler
+
+toplam = 5 + 3         # 8
+carpim = 4 * 2         # 8
+
+
