@@ -49,3 +49,7 @@ harf = 'A'                # str (tek karakter de str türündedir)
 isim = "Ali"              # str (metin ifadesi)
 PI = 3.14                 # sabit gibi kullanılan değişken (float)
 GUN_SAYISI = 7            # sabit gibi kullanılan değişken (int)
+
+3. Operatörler
+
+3.1 Aritmetik Operatörler
