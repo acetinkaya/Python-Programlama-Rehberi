@@ -111,3 +111,9 @@ carpim = 4 * 2         # 8
 4.2 Döngüler
 
 4.2.1 for Döngüsü
+
+    for i in range(5):
+        print(i)
+
+
+    
