@@ -157,4 +157,12 @@ carpim = 4 * 2         # 8
 7.1. Python’da Genel Amaçlı Kullanılan Kütüphaneler
 
 
+| Modül Adı  | Ana İşlev Grubu       | Örnek Fonksiyonlar                               | Kısaca Ne Yapar                                             |
+| ---------- | --------------------- | ------------------------------------------------ | ----------------------------------------------------------- |
+| `time`     | Tarih & Zaman         | `time()`, `localtime()`, `strftime()`, `sleep()` | Unix zaman damgası, yerel zaman, bekleme fonksiyonu sağlar. |
+| `sys`      | Sistem İşlemleri      | `argv`, `exit()`, `getsizeof()`                  | Komut satırı argümanları, çıkış işlemleri.                  |
+| `os`       | İşletim Sistemi       | `mkdir()`, `remove()`, `system()`, `getcwd()`    | Dosya/dizin işlemleri, komut çalıştırma.                    |
+| `math`     | Matematik             | `sqrt()`, `pow()`, `sin()`, `log()`, `ceil()`    | Karekök, üstel, trigonometrik işlemler.                     |
+| `random`   | Rastgele Sayılar      | `random()`, `randint()`, `choice()`, `shuffle()` | Rastgele sayı ve seçim üretimi.                             |
+| `builtins` | Yerleşik Fonksiyonlar | `len()`, `type()`, `input()`, `print()`          | Python’ın varsayılan yerleşik işlevleri.                    |
 
