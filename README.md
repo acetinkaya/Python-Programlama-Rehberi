@@ -280,4 +280,19 @@ carpim = 4 * 2         # 8
     tek_sayac = 0
     cift_sayac = 0
     
+    print("Lütfen 6 adet tamsayı giriniz:")
+    
+    for i in range(6):
+        try:
+            sayi = int(input(str(i + 1) + ". sayı: "))
+            sayilar.append(sayi)
+    
+            if sayi % 2 == 0:
+                cift_sayac += 1
+            else:
+                tek_sayac += 1
+        except ValueError:
+            print("Geçersiz giriş! Lütfen tamsayı giriniz.")
+            exit()
+    
 
