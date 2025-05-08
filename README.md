@@ -90,3 +90,14 @@ carpim = 4 * 2         # 8
 ## 4. Kontrol Yapıları
 
 4.1 Koşullu İfadeler
+
+    yas = 17
+    
+    if yas > 18:
+        print("Yetişkin.")
+    else:
+        print("Çocuk.")
+
+
+
+    
