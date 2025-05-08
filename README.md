@@ -121,5 +121,8 @@ carpim = 4 * 2         # 8
     while i < 5:
         print(i)
         i += 1
+        
+## 5. Fonksiyonlar
 
+5.1 Fonksiyon Tanımı ve Kullanımı
 
