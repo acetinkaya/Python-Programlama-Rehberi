@@ -15,3 +15,10 @@ Gömülü sistem uygulamalarında algoritma geliştirmeyi ve programlamaya ilgi 
 Python Programlama Dili Soru Çözüm Videosu :> 
 
 # 📘 Ders İçerikleri:
+
+## 1. Python Programlama Diline Genel Bakış
+
+- Python Nedir?
+
+      Yüksek seviyeli, okunabilirliği yüksek, çok amaçlı ve yorumlanabilir bir programlama dilidir. Dinamik yapısı ve geniş kütüphane desteği ile veri analitiği, yapay zekâ, web geliştirme, otomasyon gibi birçok alanda kullanılır.
+  
