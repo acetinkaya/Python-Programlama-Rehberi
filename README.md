@@ -127,9 +127,14 @@ carpim = 4 * 2         # 8
 5.1 Fonksiyon Tanımı ve Kullanımı
 
     # Toplama yapan fonksiyon
+    
     def topla(a, b):
         return a + b
     
+    # Fonksiyon çağrısı
+    
+    sonuc = topla(5, 3)
+    print(sonuc)   
 
 
 
