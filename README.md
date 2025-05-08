@@ -213,3 +213,12 @@ carpim = 4 * 2         # 8
 
 9.2 Girilen Bir Sayının Tek mi Çift mi Olduğunu Bulma 
 
+    try:
+        sayi = int(input("Bir sayı girin: "))
+        
+        if sayi % 2 == 0:
+            print(f"{sayi} çift sayıdır.")
+        else:
+            print(f"{sayi} tek sayıdır.")
+    except ValueError:
+        print("Lütfen geçerli bir tamsayı girin.")
