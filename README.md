@@ -274,4 +274,5 @@ carpim = 4 * 2         # 8
     ortalama = sum(sayilar) / len(sayilar)
     print("\nGirilen sayıların ortalaması: %.2f" % ortalama)
 
+9.6. Kullanıcıdan Alınan Sayıların Diziye Atılması ve Tek–Çift Sayıların Adetlerinin Belirlenmesi
 
