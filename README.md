@@ -152,3 +152,9 @@ carpim = 4 * 2         # 8
     
     print(matris[1][2])  # 6
 
+## 7. Python Programlama Dili Modülleri
+
+7.1. Python’da Genel Amaçlı Kullanılan Kütüphaneler
+
+
+
