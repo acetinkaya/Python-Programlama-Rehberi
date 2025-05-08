@@ -145,5 +145,10 @@ carpim = 4 * 2         # 8
 
 6.2 Çok Boyutlu Dizi
 
-
+    matris = [
+        [1, 2, 3],
+        [4, 5, 6]
+    ]
+    
+    print(matris[1][2])  # 6
 
