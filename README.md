@@ -276,3 +276,8 @@ carpim = 4 * 2         # 8
 
 9.6. Kullanıcıdan Alınan Sayıların Diziye Atılması ve Tek–Çift Sayıların Adetlerinin Belirlenmesi
 
+    sayilar = []
+    tek_sayac = 0
+    cift_sayac = 0
+    
+
