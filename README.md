@@ -179,3 +179,6 @@ carpim = 4 * 2         # 8
 
 ## 8. Python Programlama Dili Örnekleri
 
+8.1 Kullanıcı Girdisinin Doğruluğunu Kontrol Etme
+
+
