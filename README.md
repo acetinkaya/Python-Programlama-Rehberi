@@ -6,4 +6,6 @@ Bu repo, Python programlama dili üzerine hazırlanmış bir rehberdir. Temel ko
 
 Python diline yeni başlayan öğrenciler
 
+Python programlama dilini öğrenmek isteyen herkes
 
+Gömülü sistem uygulamalarında algoritma geliştirmeyi ve programlamaya ilgi duyan tüm geliştiriciler.
