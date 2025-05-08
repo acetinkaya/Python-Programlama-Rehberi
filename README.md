@@ -47,7 +47,7 @@ Python Programlama Dili Soru Çözüm Videosu :>
     sicaklik = 36.5           # float (ondalıklı sayı)   
     harf = 'A'                # string || str (tek karakter de str türündedir)   
     isim = "Ali"              # string || str (metin ifadesi)   
-    PI = 3.14                 # sabit gibi kullanılan değişken (float)    
+    degisken = True           # bool değişlen türü True || False 
 
 ## 3. Operatörler
 
