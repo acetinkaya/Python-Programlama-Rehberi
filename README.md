@@ -305,7 +305,7 @@ carpim = 4 * 2         # 8
 
 ## 📖 Kaynak Kitaplar
 
-1. 
+1. Eftâl Şehirli, Muhammed Kâmil Turan, Python ile Soru Çözüm Kitabı, 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
