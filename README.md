@@ -316,8 +316,8 @@ carpim = 4 * 2         # 8
 
 ## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
 
-IEEE--> A. Cetinkaya, "Python Programlama Dili Rehberi" GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/Python-Programlama-Rehberi . Son Erişim Tarihi: Gün Ay Yıl.
+IEEE--> A. Cetinkaya, "Python Programlama Dili Rehberi" GitHub, [Online]. Erişim Linki: https://github.com/acetinkaya/Python-Programlama-Rehberi . Son Erişim Tarihi: Gün Ay Yıl.   
 
-
+APA--> Cetinkaya, A. (2025). Python Programlama Dili Rehberi [GitHub Deposu]. GitHub. Erişim Linki: https://github.com/acetinkaya/Python-Programlama-Rehberi . Son Erişim Tarihi: Gün Ay Yıl.
 
 ---
