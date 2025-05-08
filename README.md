@@ -73,11 +73,15 @@ carpim = 4 * 2         # 8
     if a > 0 and b > 0:
         print("Pozitif sayılar")
 
-    not1 = 45
-    not2 = 60
-    
-    if not1 >= 50 or not2 >= 50:
+---
+
+      not1 = 45
+      not2 = 60
+          
+      if not1 >= 50 or not2 >= 50:
         print("Ders geçildi.")
+
+---
 
     aktif = False
     if not aktif:
