@@ -54,8 +54,8 @@ Python Programlama Dili Soru Çözüm Videosu :>
 
 3.1 Aritmetik Operatörler
 
-toplam = 5 + 3         # 8   
-carpim = 4 * 2         # 8    
+    toplam = 5 + 3         # 8   
+    carpim = 4 * 2         # 8    
   
 3.2 Karşılaştırma Operatörleri
 
