@@ -26,3 +26,6 @@ Python Programlama Dili Soru Çözüm Videosu :>
 
 * Bilgisayarda Programlama Python, Algoritma & Veri Yapıları, Yapay zeka ve makine öğrenimi, veri analizi, web uygulamaları (Django, Flask), otomasyon scriptleri, gömülü sistemler (MicroPython), bilimsel hesaplamalar, oyun geliştirme konularında python programlama dili kullanılmaktadır.
 
+-> İlk Python Programı:
+
+    print("Merhaba Hayat")
