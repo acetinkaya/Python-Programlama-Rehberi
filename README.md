@@ -64,3 +64,8 @@ carpim = 4 * 2         # 8
     
     if a == b:
         print("Eşittir")
+        
+3.3 Mantıksal Operatörler
+
+
+
