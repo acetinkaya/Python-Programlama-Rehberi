@@ -31,3 +31,5 @@ Python Programlama Dili Soru Çözüm Videosu :>
     print("Merhaba Hayat")
 
 ## 2. Python Programlama Diline Giriş
+
+2.1 Yorum Satırları
