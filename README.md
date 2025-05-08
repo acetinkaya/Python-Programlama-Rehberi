@@ -34,12 +34,12 @@ Python Programlama Dili Soru Çözüm Videosu :>
 
 2.1 Yorum Satırları   
 
-# Tek satırlık yorum   
+    # Tek satırlık yorum   
 
-"""   
-Çok satırlı   
-yorum bloğu   
-"""   
+    """   
+    Çok satırlı   
+    yorum bloğu   
+    """   
 
 2.2 Değişkenler ve Veri Tipleri (int, float, str, char)
 
