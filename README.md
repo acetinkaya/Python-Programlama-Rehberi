@@ -301,6 +301,12 @@ carpim = 4 * 2         # 8
 
 9.7. Örnekler devam edecektir....
 
+----
 
+## 📖 Kaynak Kitaplar
+
+1. 
+
+⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
 
