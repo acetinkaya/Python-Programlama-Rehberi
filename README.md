@@ -115,5 +115,11 @@ carpim = 4 * 2         # 8
     for i in range(5):
         print(i)
 
+4.2.2 while Döngüsü
 
-    
+    i = 0
+    while i < 5:
+        print(i)
+        i += 1
+
+
