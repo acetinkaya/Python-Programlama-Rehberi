@@ -140,7 +140,8 @@ carpim = 4 * 2         # 8
 
 6.1 Tek Boyutlu Dizi
 
-
+    sayilar = [1, 2, 3, 4, 5]
+    print(sayilar[2])  # 3
 
 
 
