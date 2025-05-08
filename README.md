@@ -331,5 +331,7 @@ Proje Durumu: İlgili paylaşımlar ve Python programlama dilinde yazılmış ya
 Katkıda Bulunma: Fork - Çekme istekleri memnuniyetle karşılanır. Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi görüşmek üzere ilgili Python kodunu belirttiğiniz bir soru - yanıt bölümü açın. 
 Bilgi paylaşıldıkça çoğalır ve gelişir. İyi çalışmalar dilerim.
 
+Yazar ve Güncelleme Yapan: [Öğr. Gör. Ali Çetinkaya (MSc.)](https://github.com/acetinkaya) - 2025
 
+---
 
