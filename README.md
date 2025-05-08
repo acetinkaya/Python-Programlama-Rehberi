@@ -98,6 +98,14 @@ carpim = 4 * 2         # 8
     else:
         print("Çocuk.")
 
+    ---
 
+    yas = 20
+    puan = 85
+    
+    if yas >= 18 and puan >= 80:
+        print("Sınava girmeye uygunsunuz.")
+    else:
+        print("Şartları sağlamıyorsunuz.")
 
     
