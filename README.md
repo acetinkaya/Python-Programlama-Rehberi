@@ -36,4 +36,7 @@ Python Programlama Dili Soru Çözüm Videosu :>
 
 # Tek satırlık yorum
 
-
+"""
+Çok satırlı
+yorum bloğu
+"""
