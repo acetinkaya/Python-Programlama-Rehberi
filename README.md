@@ -29,3 +29,5 @@ Python Programlama Dili Soru Çözüm Videosu :>
 -> İlk Python Programı:
 
     print("Merhaba Hayat")
+
+## 2. Python Programlama Diline Giriş
