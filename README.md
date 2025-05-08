@@ -138,6 +138,7 @@ carpim = 4 * 2         # 8
 
 ## 6. Listeler
 
+6.1 Tek Boyutlu Dizi
 
 
 
