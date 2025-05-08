@@ -136,6 +136,8 @@ carpim = 4 * 2         # 8
     sonuc = topla(5, 3)
     print(sonuc)   
 
+## 6. Listeler
+
 
 
 
