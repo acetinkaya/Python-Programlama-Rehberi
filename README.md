@@ -257,3 +257,5 @@ carpim = 4 * 2         # 8
     for sayi in sayilar:
         print(sayi, end=" ") # end=" " ifadesi, her değeri aynı satırda boşlukla yazdırmak için kullanılır.
 
+
+9.5. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
