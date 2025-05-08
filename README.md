@@ -151,7 +151,7 @@ Python Programlama Dili Soru Çözüm Videosu :>
     
     print(matris[1][2])  # 6
 
-## 7. Python Programlama Dili Modülleri
+## 7. Python Programlama Dili Kütüphaneleri
 
 7.1. Python’da Genel Amaçlı Kullanılan Kütüphaneler
 
