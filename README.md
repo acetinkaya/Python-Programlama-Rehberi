@@ -222,3 +222,6 @@ carpim = 4 * 2         # 8
             print(f"{sayi} tek sayıdır.")
     except ValueError:
         print("Lütfen geçerli bir tamsayı girin.")
+
+9.3. Girilen Bir Değerin Sayı Olduğu Kontrol Edildikten Sonra Tek mi Çift mi Olduğunu Bulma
+
