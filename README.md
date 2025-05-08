@@ -46,4 +46,6 @@ yorum bloğu
 yas = 25                  # int (tam sayı)
 sicaklik = 36.5           # float (ondalıklı sayı)
 harf = 'A'                # str (tek karakter de str türündedir)
-
+isim = "Ali"              # str (metin ifadesi)
+PI = 3.14                 # sabit gibi kullanılan değişken (float)
+GUN_SAYISI = 7            # sabit gibi kullanılan değişken (int)
