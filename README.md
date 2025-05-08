@@ -57,4 +57,4 @@ GUN_SAYISI = 7            # sabit gibi kullanılan değişken (int)
 toplam = 5 + 3         # 8   
 carpim = 4 * 2         # 8    
   
-
+3.2 Karşılaştırma Operatörleri
