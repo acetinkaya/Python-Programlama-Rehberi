@@ -298,3 +298,9 @@ carpim = 4 * 2         # 8
     print("\nGirilen sayılar arasında:")
     print("Tek sayı adedi: " + str(tek_sayac))
     print("Çift sayı adedi: " + str(cift_sayac))
+
+9.7. Örnekler devam edecektir....
+
+
+
+
