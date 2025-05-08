@@ -247,10 +247,13 @@ carpim = 4 * 2         # 8
     for i in range(6):
         try:
             sayi = int(input(f"{i + 1}. sayı: "))
-            sayilar.append(sayi)
+            sayilar.append(sayi)            # list.append() ile Python’da diziye eleman eklenir.
         except ValueError:
             print("Geçersiz giriş! Tamsayı giriniz.")
             exit()
     
-
+    # Girilen sayıları yazdır
+    print("\nGirilen sayılar:")
+    for sayi in sayilar:
+        print(sayi, end=" ") # end=" " ifadesi, her değeri aynı satırda boşlukla yazdırmak için kullanılır.
 
