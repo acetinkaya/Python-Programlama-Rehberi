@@ -166,3 +166,8 @@ carpim = 4 * 2         # 8
 | `random`   | Rastgele Sayılar      | `random()`, `randint()`, `choice()`, `shuffle()` | Rastgele sayı ve seçim üretimi.                             |
 | `builtins` | Yerleşik Fonksiyonlar | `len()`, `type()`, `input()`, `print()`          | Python’ın varsayılan yerleşik işlevleri.                    |
 
+7.2. Python’da Özel Amaçlı Kütüphaneler
+
+
+
+
