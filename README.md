@@ -156,7 +156,6 @@ carpim = 4 * 2         # 8
 
 7.1. Python’da Genel Amaçlı Kullanılan Kütüphaneler
 
-
 | Modül Adı  | Ana İşlev Grubu       | Örnek Fonksiyonlar                               | Kısaca Ne Yapar                                             |
 | ---------- | --------------------- | ------------------------------------------------ | ----------------------------------------------------------- |
 | `time`     | Tarih & Zaman         | `time()`, `localtime()`, `strftime()`, `sleep()` | Unix zaman damgası, yerel zaman, bekleme fonksiyonu sağlar. |
@@ -177,9 +176,13 @@ carpim = 4 * 2         # 8
 | `errno`   | Hata Kodları (dolaylı)   | `errno`, `strerror()` (via `os.strerror`)   | Sistem hatalarının yorumlanması.                              |
 
 
-## 8. Python Programlama Dili Örnekleri
 
-8.1 Kullanıcı Girdisinin Doğruluğunu Kontrol Etme
+## 8. Python’da try-except Yapısı
+
+
+## 9. Python Programlama Dili Örnekleri
+
+9.1 Kullanıcı Girdisinin Doğruluğunu Kontrol Etme
 
     try:
         sayi = int(input("Bir sayı girin: "))
