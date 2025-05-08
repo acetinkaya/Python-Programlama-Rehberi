@@ -259,3 +259,10 @@ carpim = 4 * 2         # 8
 
 
 9.5. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
+
+    sayilar = []
+    print("Lütfen 6 adet tamsayı giriniz:")
+    
+
+
+
