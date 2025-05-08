@@ -22,3 +22,6 @@ Python Programlama Dili Soru Çözüm Videosu :>
 
       Yüksek seviyeli, okunabilirliği yüksek, çok amaçlı ve yorumlanabilir bir programlama dilidir. Dinamik yapısı ve geniş kütüphane desteği ile veri analitiği, yapay zekâ, web geliştirme, otomasyon gibi birçok alanda kullanılır.
   
+-> Python Nerelerde Kullanılır?
+
+    Bilgisayarda Programlama Python, Algoritma & Veri Yapıları, 
