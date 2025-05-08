@@ -30,31 +30,31 @@ Python Programlama Dili Soru Çözüm Videosu :>
 
     print("Merhaba Hayat")
 
-## 2. Python Programlama Diline Giriş
+## 2. Python Programlama Diline Giriş   
 
-2.1 Yorum Satırları
+2.1 Yorum Satırları   
 
-# Tek satırlık yorum
+# Tek satırlık yorum   
 
-"""
-Çok satırlı
-yorum bloğu
-"""
+"""   
+Çok satırlı   
+yorum bloğu   
+"""   
 
 2.2 Değişkenler ve Veri Tipleri (int, float, str, char)
 
-yas = 25                  # int (tam sayı)
-sicaklik = 36.5           # float (ondalıklı sayı)
-harf = 'A'                # str (tek karakter de str türündedir)
-isim = "Ali"              # str (metin ifadesi)
-PI = 3.14                 # sabit gibi kullanılan değişken (float)
-GUN_SAYISI = 7            # sabit gibi kullanılan değişken (int)
+yas = 25                  # int (tam sayı)   
+sicaklik = 36.5           # float (ondalıklı sayı)   
+harf = 'A'                # str (tek karakter de str türündedir)   
+isim = "Ali"              # str (metin ifadesi)   
+PI = 3.14                 # sabit gibi kullanılan değişken (float)    
+GUN_SAYISI = 7            # sabit gibi kullanılan değişken (int)   
 
 3. Operatörler
 
 3.1 Aritmetik Operatörler
 
-toplam = 5 + 3         # 8
-carpim = 4 * 2         # 8
-
+toplam = 5 + 3         # 8   
+carpim = 4 * 2         # 8    
+  
 
