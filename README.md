@@ -244,5 +244,13 @@ carpim = 4 * 2         # 8
     
     print("Lütfen 6 adet tamsayı giriniz:")
     
+    for i in range(6):
+        try:
+            sayi = int(input(f"{i + 1}. sayı: "))
+            sayilar.append(sayi)
+        except ValueError:
+            print("Geçersiz giriş! Tamsayı giriniz.")
+            exit()
+    
 
 
