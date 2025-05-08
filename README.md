@@ -235,3 +235,14 @@ carpim = 4 * 2         # 8
     
     except ValueError:
         print("Geçersiz giriş! Lütfen bir tamsayı giriniz.")
+
+
+
+9.4. Kullanıcıdan Alınan Sayıları Diziye Aktarma ve Yazdırma
+
+    sayilar = []
+    
+    print("Lütfen 6 adet tamsayı giriniz:")
+    
+
+
