@@ -307,7 +307,7 @@ carpim = 4 * 2         # 8
 
 1. Eftâl Şehirli, Muhammed Kâmil Turan, Python ile Soru Çözüm Kitabı, Nobel Akademik Yayıncılık, Ankara, 2023.
   
-
+2. Prof. Dr. Özlem Türkşen, Optimizasyon Yöntemleri ve Matlab, 
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
