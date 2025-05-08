@@ -9,3 +9,7 @@ Python diline yeni başlayan öğrenciler
 Python programlama dilini öğrenmek isteyen herkes
 
 Gömülü sistem uygulamalarında algoritma geliştirmeyi ve programlamaya ilgi duyan tüm geliştiriciler.
+
+# 📘 Ders Video İçerikleri:
+
+Python Programlama Dili Soru Çözüm Videosu :> 
