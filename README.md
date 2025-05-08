@@ -58,3 +58,9 @@ toplam = 5 + 3         # 8
 carpim = 4 * 2         # 8    
   
 3.2 Karşılaştırma Operatörleri
+
+    a = 10
+    b = 10
+    
+    if a == b:
+        print("Eşittir")
