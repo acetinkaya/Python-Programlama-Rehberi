@@ -270,6 +270,8 @@ carpim = 4 * 2         # 8
         except ValueError:
             print("Geçersiz giriş! Lütfen tamsayı giriniz.")
             exit()
-
+    
+    ortalama = sum(sayilar) / len(sayilar)
+    print("\nGirilen sayıların ortalaması: %.2f" % ortalama)
 
 
