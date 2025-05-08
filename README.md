@@ -305,7 +305,9 @@ carpim = 4 * 2         # 8
 
 ## 📖 Kaynak Kitaplar
 
-1. Eftâl Şehirli, Muhammed Kâmil Turan, Python ile Soru Çözüm Kitabı, 
+1. Eftâl Şehirli, Muhammed Kâmil Turan, Python ile Soru Çözüm Kitabı, Nobel Akademik Yayıncılık, Ankara, 2023.
+  
+
 
 ⚡ **Bilgi Paylaştıkça Gelişir!** 🚀 
 
