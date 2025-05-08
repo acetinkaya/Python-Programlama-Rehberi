@@ -67,5 +67,11 @@ carpim = 4 * 2         # 8
         
 3.3 Mantıksal Operatörler
 
+    a = 5
+    b = 7
+    
+    if a > 0 and b > 0:
+        print("Pozitif sayılar")
+
 
 
