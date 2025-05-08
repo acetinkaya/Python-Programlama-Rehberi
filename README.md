@@ -1,1 +1,1 @@
-# Python-Programlama-Rehberi
+# Python Programlama Dili Rehberi
