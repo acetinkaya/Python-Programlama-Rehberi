@@ -181,4 +181,8 @@ carpim = 4 * 2         # 8
 
 8.1 Kullanıcı Girdisinin Doğruluğunu Kontrol Etme
 
-
+    try:
+        sayi = int(input("Bir sayı girin: "))
+        print("Girilen sayı:", sayi)
+    except ValueError:
+        print("Geçersiz karakter girişi yaptınız.")
