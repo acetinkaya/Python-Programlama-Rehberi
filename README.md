@@ -24,4 +24,4 @@ Python Programlama Dili Soru Çözüm Videosu :>
   
 -> Python Nerelerde Kullanılır?
 
-    Bilgisayarda Programlama Python, Algoritma & Veri Yapıları, 
+    Bilgisayarda Programlama Python, Algoritma & Veri Yapıları, Yapay zeka ve makine öğrenimi, veri analizi, web uygulamaları (Django, Flask), 
