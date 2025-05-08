@@ -176,14 +176,16 @@ carpim = 4 * 2         # 8
 | `errno`   | Hata Kodları (dolaylı)   | `errno`, `strerror()` (via `os.strerror`)   | Sistem hatalarının yorumlanması.                              |
 
 ## 8. Python’da try-except Yapısı
-
-
-## 9. Python Programlama Dili Örnekleri
-
+    
     try:
         # Hata çıkarabilecek kod
     except HataTuru:
         # Hata yakalandığında çalışacak kod
+
+
+        
+
+## 9. Python Programlama Dili Örnekleri
 
 9.1 Kullanıcı Girdisinin Doğruluğunu Kontrol Etme
 
