@@ -210,3 +210,6 @@ carpim = 4 * 2         # 8
         print("Girilen sayı:", sayi)
     except ValueError:
         print("Geçersiz karakter girişi yaptınız.")
+
+9.2 Girilen Bir Sayının Tek mi Çift mi Olduğunu Bulma 
+
