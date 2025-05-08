@@ -20,9 +20,9 @@ Python Programlama Dili Soru Çözüm Videosu :>
 
 - Python Nedir?
 
-      Yüksek seviyeli, okunabilirliği yüksek, çok amaçlı ve yorumlanabilir bir programlama dilidir. Dinamik yapısı ve geniş kütüphane desteği ile veri analitiği, yapay zekâ, web geliştirme, otomasyon gibi birçok alanda kullanılır.
+* Yüksek seviyeli, okunabilirliği yüksek, çok amaçlı ve yorumlanabilir bir programlama dilidir. Dinamik yapısı ve geniş kütüphane desteği ile veri analitiği, yapay zekâ, web geliştirme, otomasyon gibi birçok alanda kullanılır.
   
 -> Python Nerelerde Kullanılır?
 
-    Bilgisayarda Programlama Python, Algoritma & Veri Yapıları, Yapay zeka ve makine öğrenimi, veri analizi, web uygulamaları (Django, Flask), otomasyon scriptleri, gömülü sistemler (MicroPython), bilimsel hesaplamalar, oyun geliştirme konularında python programlama dili kullanılmaktadır.
+* Bilgisayarda Programlama Python, Algoritma & Veri Yapıları, Yapay zeka ve makine öğrenimi, veri analizi, web uygulamaları (Django, Flask), otomasyon scriptleri, gömülü sistemler (MicroPython), bilimsel hesaplamalar, oyun geliştirme konularında python programlama dili kullanılmaktadır.
 
