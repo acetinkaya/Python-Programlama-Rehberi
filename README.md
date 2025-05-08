@@ -143,5 +143,7 @@ carpim = 4 * 2         # 8
     sayilar = [1, 2, 3, 4, 5]
     print(sayilar[2])  # 3
 
+6.2 Çok Boyutlu Dizi
+
 
 
