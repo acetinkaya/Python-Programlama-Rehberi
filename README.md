@@ -40,3 +40,5 @@ Python Programlama Dili Soru Çözüm Videosu :>
 Çok satırlı
 yorum bloğu
 """
+
+2.2 Değişkenler ve Veri Tipleri (int, float, str, char)
