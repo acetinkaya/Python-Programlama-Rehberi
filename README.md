@@ -86,3 +86,7 @@ carpim = 4 * 2         # 8
     aktif = False
     if not aktif:
         print("Kullanıcı pasif.")
+
+## 4. Kontrol Yapıları
+
+4.1 Koşullu İfadeler
