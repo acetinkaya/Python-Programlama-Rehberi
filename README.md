@@ -177,4 +177,5 @@ carpim = 4 * 2         # 8
 | `errno`   | Hata Kodları (dolaylı)   | `errno`, `strerror()` (via `os.strerror`)   | Sistem hatalarının yorumlanması.                              |
 
 
+## 8. Python Programlama Dili Örnekleri
 
