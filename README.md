@@ -183,9 +183,23 @@ carpim = 4 * 2         # 8
         # Hata çıkarabilecek kod
     except HataTuru:
         # Hata yakalandığında çalışacak kod
+        
+8.2. Python Try-Except Hata Türleri 
 
-
-  
+| Hata Türü           | Açıklama                                                               | Örnek Kod                             |
+| ------------------- | ---------------------------------------------------------------------- | ------------------------------------- |
+| `ValueError`        | Uygun olmayan veri tipiyle işlem yapılmaya çalışıldığında oluşur.      | `int("merhaba")`                      |
+| `TypeError`         | Yanlış türdeki verilerle işlem yapılırsa oluşur.                       | `"Ali" + 5`                           |
+| `ZeroDivisionError` | Sayı sıfıra bölünmeye çalışıldığında oluşur.                           | `10 / 0`                              |
+| `IndexError`        | Dizi/listede olmayan bir indekse erişildiğinde oluşur.                 | `[1, 2, 3][5]`                        |
+| `KeyError`          | Sözlükte olmayan bir anahtara erişildiğinde oluşur.                    | `{"ad": "Ali"}["soyad"]`              |
+| `NameError`         | Tanımlanmamış bir değişkene erişilmeye çalışıldığında oluşur.          | `print(x)` (x tanımlı değilse)        |
+| `AttributeError`    | Nesne üzerinde tanımlı olmayan bir fonksiyon/metoda erişilirse oluşur. | `"Ali".append("x")`                   |
+| `FileNotFoundError` | Açılmak istenen dosya bulunamazsa oluşur.                              | `open("yok.txt")`                     |
+| `ImportError`       | Var olmayan veya yüklenemeyen bir modül çağırıldığında oluşur.         | `import yok_modul`                    |
+| `IndentationError`  | Kod bloğu girintileme kurallarına uymazsa oluşur.                      | `if True:\nprint("merhaba")`          |
+| `SyntaxError`       | Yazım hatası varsa oluşur.                                             | `for i in range(5)` (iki nokta eksik) |
+| `Exception`         | Tüm hata türlerinin üst sınıfıdır (genel hata yakalamada kullanılır).  | `except Exception as e:`              |
 
 ## 9. Python Programlama Dili Örnekleri
 
