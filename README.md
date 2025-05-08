@@ -108,4 +108,6 @@ carpim = 4 * 2         # 8
     else:
         print("Şartları sağlamıyorsunuz.")
 
-    
+4.2 Döngüler
+
+4.2.1 for Döngüsü
