@@ -175,12 +175,15 @@ carpim = 4 * 2         # 8
 | `locale`  | Yerelleştirme            | `setlocale()`, `localeconv()`               | Sayı formatı, para birimi biçimi gibi yerel ayarları yönetir. |
 | `errno`   | Hata Kodları (dolaylı)   | `errno`, `strerror()` (via `os.strerror`)   | Sistem hatalarının yorumlanması.                              |
 
-
-
 ## 8. Python’da try-except Yapısı
 
 
 ## 9. Python Programlama Dili Örnekleri
+
+    try:
+        # Hata çıkarabilecek kod
+    except HataTuru:
+        # Hata yakalandığında çalışacak kod
 
 9.1 Kullanıcı Girdisinin Doğruluğunu Kontrol Etme
 
