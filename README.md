@@ -42,3 +42,8 @@ yorum bloğu
 """
 
 2.2 Değişkenler ve Veri Tipleri (int, float, str, char)
+
+yas = 25                  # int (tam sayı)
+sicaklik = 36.5           # float (ondalıklı sayı)
+harf = 'A'                # str (tek karakter de str türündedir)
+
