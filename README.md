@@ -43,12 +43,12 @@ Python Programlama Dili Soru Çözüm Videosu :>
 
 2.2 Değişkenler ve Veri Tipleri (int, float, str, char)
 
-yas = 25                  # int (tam sayı)   
-sicaklik = 36.5           # float (ondalıklı sayı)   
-harf = 'A'                # str (tek karakter de str türündedir)   
-isim = "Ali"              # str (metin ifadesi)   
-PI = 3.14                 # sabit gibi kullanılan değişken (float)    
-GUN_SAYISI = 7            # sabit gibi kullanılan değişken (int)   
+    yas = 25                  # int (tam sayı)   
+    sicaklik = 36.5           # float (ondalıklı sayı)   
+    harf = 'A'                # str (tek karakter de str türündedir)   
+    isim = "Ali"              # str (metin ifadesi)   
+    PI = 3.14                 # sabit gibi kullanılan değişken (float)    
+    GUN_SAYISI = 7            # sabit gibi kullanılan değişken (int)   
 
 ## 3. Operatörler
 
