@@ -144,7 +144,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     sayilar = [1, 2, 3, 4, 5]
     print(sayilar[2])  # 3
 
-6.2 Çok Boyutlu Dizi
+6.2 Çok Boyutlu Liste
 
     matris = [
         [1, 2, 3],
