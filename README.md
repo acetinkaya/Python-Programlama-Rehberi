@@ -1,5 +1,7 @@
 # Python Programlama Dili Rehberi
 
+![alternatif metin](https://github.com/acetinkaya/Python-Programlama-Rehberi/blob/main/python_rehberi.png)
+
 Bu repo, Python programlama dili üzerine hazırlanmış bir rehberdir. Temel konulardan ileri düzey uygulamalara kadar adım adım ilerleyen örneklerle, Python programlama dilini öğrenme sürecinizi kolaylaştırmayı amaçlamaktayım.
 
 🎯 Hedef Kitle
