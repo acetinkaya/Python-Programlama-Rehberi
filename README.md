@@ -139,7 +139,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
 
 ## 6. Listeler
 
-6.1 Tek Boyutlu Dizi
+6.1 Tek Boyutlu Liste
 
     sayilar = [1, 2, 3, 4, 5]
     print(sayilar[2])  # 3
