@@ -192,7 +192,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
 | `ValueError`        | Uygun olmayan veri tipiyle işlem yapılmaya çalışıldığında oluşur.      | `int("merhaba")`                      |
 | `TypeError`         | Yanlış türdeki verilerle işlem yapılırsa oluşur.                       | `"Ali" + 5`                           |
 | `ZeroDivisionError` | Sayı sıfıra bölünmeye çalışıldığında oluşur.                           | `10 / 0`                              |
-| `IndexError`        | Dizi/listede olmayan bir indekse erişildiğinde oluşur.                 | `[1, 2, 3][5]`                        |
+| `IndexError`        | Listede olmayan bir indekse erişildiğinde oluşur.                 | `[1, 2, 3][5]`                        |
 | `KeyError`          | Sözlükte olmayan bir anahtara erişildiğinde oluşur.                    | `{"ad": "Ali"}["soyad"]`              |
 | `NameError`         | Tanımlanmamış bir değişkene erişilmeye çalışıldığında oluşur.          | `print(x)` (x tanımlı değilse)        |
 | `AttributeError`    | Nesne üzerinde tanımlı olmayan bir fonksiyon/metoda erişilirse oluşur. | `"Ali".append("x")`                   |
