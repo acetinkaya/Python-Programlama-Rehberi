@@ -16,6 +16,8 @@ Gömülü sistem uygulamalarında algoritma geliştirmeyi ve programlamaya ilgi 
 
 Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
 
+:> https://youtu.be/i2QxxYTaaxs
+
 # 📘 Ders İçerikleri:
 
 ## 1. Python Programlama Diline Genel Bakış
