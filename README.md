@@ -14,7 +14,7 @@ Gömülü sistem uygulamalarında algoritma geliştirmeyi ve programlamaya ilgi 
 
 # 📘 Ders Video İçerikleri:
 
-C Programlama Dili Konu Anlatımı - 1 Videosu :> https://youtu.be/i2QxxYTaaxs
+Python Programlama Dili Konu Anlatımı - 1 Videosu :> https://youtu.be/i2QxxYTaaxs
 
 Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
 
