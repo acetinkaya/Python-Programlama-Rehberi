@@ -394,6 +394,9 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
             print("Geçersiz seçim! Lütfen taş, kağıt ya da makas girin.")
             continue
     
+        bilgisayar_secimi = random.choice(secenekler)
+        print("Bilgisayar: ", bilgisayar_secimi)
+    
 
 
 ----
