@@ -362,7 +362,15 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
         try:
             tahmin = int(input("Tahmininizi giriniz: "))
             deneme_sayisi += 1
-    
+            
+            if tahmin < hedef_sayi:
+                print("Daha büyük bir sayı girin.")
+            elif tahmin > hedef_sayi:
+                print("Daha küçük bir sayı girin.")
+            else:
+                print("Tebrikler! ", deneme_sayisi , "denemede doğru tahmin ettiniz.")
+        except ValueError:
+            print("Lütfen geçerli bir tamsayı girin.")    
 
 
 ----
