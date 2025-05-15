@@ -407,7 +407,12 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
         else:
             print("Bilgisayar kazandı!")
             bilgisayar_skor += 1
+            
+        # Son durum bilgisi
+        print("Skor Durumu -> Bilgisayar: ", bilgisayar_skor , " | Kullanıcı: ", kullanici_skor)
+        print("Oyunu sonlandırmak için 'q' tuşuna bas veya 'çık' yazabilirsiniz.")
     
+
 
 
 ----
