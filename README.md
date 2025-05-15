@@ -390,6 +390,10 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
             print("Oyun sonlandırıldı.")
             break
     
+        if oyuncu_secimi not in secenekler:
+            print("Geçersiz seçim! Lütfen taş, kağıt ya da makas girin.")
+            continue
+    
 
 
 ----
