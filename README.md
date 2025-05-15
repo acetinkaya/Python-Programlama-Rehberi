@@ -261,6 +261,11 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
 
 9.5. Kullanıcının Belirlediği Sayı Adedi ile Girilen Sayı Adedinin Karşılaştırılması
 
+    sayilar = []
+    
+    istenen_adet = 6
+    
+
 
 
 9.5. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
