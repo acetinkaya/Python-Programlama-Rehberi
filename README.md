@@ -404,6 +404,11 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
               (oyuncu_secimi == "makas" and bilgisayar_secimi == "kağıt")):
             print("Tebrikler, kazandınız!")
             kullanici_skor += 1
+        else:
+            print("Bilgisayar kazandı!")
+            bilgisayar_skor += 1
+    
+
 
 ----
 
