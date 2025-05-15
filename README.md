@@ -241,7 +241,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     except ValueError:
         print("Geçersiz giriş! Lütfen bir tamsayı giriniz.")
 
-9.4. Kullanıcıdan Alınan Sayıları Diziye Aktarma ve Yazdırma
+9.4. Kullanıcıdan Alınan Sayıları Listeye Aktarma ve Yazdırma
 
     sayilar = []
     
