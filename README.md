@@ -274,6 +274,10 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
       except ValueError:
         print("Geçersiz değer girdiniz")
     
+    print("Kullanıcıdan Gelen Degerler: ",sayilar)
+    sayi_adeti = len(sayilar)
+    print("Kullanıcıdan Gelen Sayı Adeti ",sayi_adeti)
+    
 
 
 
