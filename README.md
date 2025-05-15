@@ -323,9 +323,9 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
         except ValueError:
             print("Geçersiz giriş! Lütfen tamsayı giriniz.")
     
-    print("\nGirilen sayılar arasında:")
-    print("Tek sayı adedi: " + str(tek_sayac))
-    print("Çift sayı adedi: " + str(cift_sayac))
+    print("Girilen sayılar arasında:")
+    print("Tek sayı adedi: ", tek_sayac)
+    print("Çift sayı adedi: ", cift_sayac)
 
 9.7. Örnekler devam edecektir....
 
