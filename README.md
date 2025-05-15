@@ -373,6 +373,9 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
             print("Lütfen geçerli bir tamsayı girin.")    
 
 9.10. Taş-Kağıt-Makas Oyunu: Python ile Skor Takipli Taş-Kağıt-Makas Oyunu 
+    
+    import random
+    
 
 
 ----
