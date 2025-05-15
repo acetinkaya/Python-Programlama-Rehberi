@@ -288,7 +288,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
       print("Hata")
 
 
-9.5. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
+9.6. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
 
     sayilar = []
     print("Lütfen 6 adet tamsayı giriniz:")
@@ -303,7 +303,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     ortalama = sum(sayilar) / len(sayilar)
     print("Girilen sayıların ortalaması:", ortalama)
 
-9.6. Kullanıcıdan Alınan Sayıların Diziye Atılması ve Tek–Çift Sayıların Adetlerinin Belirlenmesi
+9.7. Kullanıcıdan Alınan Sayıların Diziye Atılması ve Tek–Çift Sayıların Adetlerinin Belirlenmesi
 
     sayilar = []
     tek_sayac = 0
@@ -327,7 +327,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     print("Tek sayı adedi: ", tek_sayac)
     print("Çift sayı adedi: ", cift_sayac)
 
-9.7. Örnekler devam edecektir....
+9.8. Örnekler devam edecektir....
 
 ----
 
