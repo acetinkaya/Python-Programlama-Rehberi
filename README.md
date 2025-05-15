@@ -346,7 +346,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
                 # Elemanları yer değiştiriyoruz
                 sayilar[j], sayilar[j + 1] = sayilar[j + 1], sayilar[j]
     
-
+    print("Sıralanmış sayılar (küçükten büyüğe):", sayilar)
 
 ----
 
