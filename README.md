@@ -241,8 +241,6 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     except ValueError:
         print("Geçersiz giriş! Lütfen bir tamsayı giriniz.")
 
-
-
 9.4. Kullanıcıdan Alınan Sayıları Diziye Aktarma ve Yazdırma
 
     sayilar = []
@@ -297,7 +295,6 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
                 tek_sayac += 1
         except ValueError:
             print("Geçersiz giriş! Lütfen tamsayı giriniz.")
-            exit()
     
     print("\nGirilen sayılar arasında:")
     print("Tek sayı adedi: " + str(tek_sayac))
