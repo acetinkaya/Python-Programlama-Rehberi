@@ -255,7 +255,6 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
             sayilar.append(sayi)            # list.append() ile Python’da diziye eleman eklenir.
         except ValueError:
             print("Geçersiz giriş! Tamsayı giriniz.")
-            exit()
     
     # Girilen sayıları yazdır
     print("\nGirilen sayılar:")
