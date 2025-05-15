@@ -383,6 +383,13 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     print("Taş - Kağıt - Makas oyununa hoş geldiniz!")
     print("Oyunu bitirmek için 'q' tuşuna basın veya 'çık' yazın.\n")
     
+    while True:
+        oyuncu_secimi = input("Taş, Kağıt veya Makas seçin: ").lower()
+    
+        if oyuncu_secimi in ["çık", "q"]:
+            print("Oyun sonlandırıldı.")
+            break
+    
 
 
 ----
