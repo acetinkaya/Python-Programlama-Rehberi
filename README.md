@@ -327,7 +327,12 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     print("Tek sayı adedi: ", tek_sayac)
     print("Çift sayı adedi: ", cift_sayac)
 
-9.8. Kullanıcıdan Alınan Sayıların Diziye Atılması 
+9.8. Kullanıcıdan Alınan Sayıların Diziye Atılması ve Küçükten Büyüğe Göre Sıralaması
+
+    sayilar = []
+    print("Lütfen 6 adet tamsayı giriniz:")
+        
+
 
 ----
 
