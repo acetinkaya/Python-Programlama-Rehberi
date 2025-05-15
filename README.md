@@ -327,7 +327,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     print("Tek sayı adedi: ", tek_sayac)
     print("Çift sayı adedi: ", cift_sayac)
 
-9.8. Örnekler devam edecektir....
+9.8. Kullanıcıdan Alınan Sayıların Diziye Atılması 
 
 ----
 
