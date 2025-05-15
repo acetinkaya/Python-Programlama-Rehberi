@@ -278,7 +278,14 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     sayi_adeti = len(sayilar)
     print("Kullanıcıdan Gelen Sayı Adeti ",sayi_adeti)
     
-
+    if(istenen_adet>sayi_adeti):
+      print("Eksik Sayı Girdiniz")
+    elif(istenen_adet<sayi_adeti):
+      print("Fazla Sayı Girdiniz")
+    elif(istenen_adet==sayi_adeti):
+      print("Girilen Sayı İstenen Sayı Adeti Kadardır")
+    else:
+      print("Hata")
 
 
 9.5. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
