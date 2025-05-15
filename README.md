@@ -380,6 +380,9 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     kullanici_skor = 0
     bilgisayar_skor = 0
     
+    print("Taş - Kağıt - Makas oyununa hoş geldiniz!")
+    print("Oyunu bitirmek için 'q' tuşuna basın veya 'çık' yazın.\n")
+    
 
 
 ----
