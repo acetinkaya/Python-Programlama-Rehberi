@@ -397,7 +397,13 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
         bilgisayar_secimi = random.choice(secenekler)
         print("Bilgisayar: ", bilgisayar_secimi)
     
-
+        if oyuncu_secimi == bilgisayar_secimi:
+            print("Berabere!")
+        elif ((oyuncu_secimi == "taş" and bilgisayar_secimi == "makas") or 
+              (oyuncu_secimi == "kağıt" and bilgisayar_secimi == "taş") or 
+              (oyuncu_secimi == "makas" and bilgisayar_secimi == "kağıt")):
+            print("Tebrikler, kazandınız!")
+            kullanici_skor += 1
 
 ----
 
