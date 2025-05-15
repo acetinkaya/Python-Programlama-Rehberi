@@ -376,6 +376,10 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     
     import random
     
+    secenekler = ["taş", "kağıt", "makas"]
+    kullanici_skor = 0
+    bilgisayar_skor = 0
+    
 
 
 ----
