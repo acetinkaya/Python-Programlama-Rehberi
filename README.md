@@ -265,6 +265,15 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     
     istenen_adet = 6
     
+    print("6 Adet Sayı Giriniz")
+    
+    for i in range(istenen_adet):
+      try:
+        sayi = int(input(str(i + 1) + ". sayi"))
+        sayilar.append(sayi)
+      except ValueError:
+        print("Geçersiz değer girdiniz")
+    
 
 
 
