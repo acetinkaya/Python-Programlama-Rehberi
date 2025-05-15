@@ -259,7 +259,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     print("Girilen sayılar:", sayilar)
 
 
-9.5. Kullanıcının Belirlediği Sayı 
+9.5. Kullanıcının Belirlediği Sayı Adedi ile Girilen 
 
 
 
