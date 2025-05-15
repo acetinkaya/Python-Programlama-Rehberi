@@ -358,6 +358,11 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     
     print("1 ile 10 arasında bir sayı tuttum. Bakalım tahmin edebilecek misin?")
     
+    while tahmin != hedef_sayi:
+        try:
+            tahmin = int(input("Tahmininizi giriniz: "))
+            deneme_sayisi += 1
+    
 
 
 ----
