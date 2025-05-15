@@ -412,7 +412,9 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
         print("Skor Durumu -> Bilgisayar: ", bilgisayar_skor , " | Kullanıcı: ", kullanici_skor)
         print("Oyunu sonlandırmak için 'q' tuşuna bas veya 'çık' yazabilirsiniz.")
     
-
+    print("Oyun Bitti! Toplam Skorlar:")
+    print("Bilgisayar: " , bilgisayar_skor)
+    print("Kullanıcı: " , kullanici_skor)
 
 
 ----
