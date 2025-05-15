@@ -247,16 +247,15 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     
     print("Lütfen 6 adet tamsayı giriniz:")
     
-    sayilar = []
-    
     for i in range(6):
-        try:
-            sayi = int(input(str(i + 1) + ". sayı: "))  # f-string yerine string birleştirme kullanıldı
-            sayilar.append(sayi)
-        except ValueError:
-            print("Geçersiz giriş! Lütfen tamsayı giriniz.")
-
+      try:
+         sayi = int(input(str(i + 1) + ". sayı: "))
+         sayilar.append(sayi)
+      except ValueError:
+         print("Geçersiz giriş! Lütfen tamsayı giriniz.")
+    
     # Girilen sayıları yazdır
+    
     print("Girilen sayılar:", sayilar)
 
 9.5. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
