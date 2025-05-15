@@ -352,6 +352,10 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
 
     import random  # rastgele sayı üretmek için kullanılan kütüphane
     
+    hedef_sayi = random.randint(1, 10) # 1 ile 10 arasında rastgele belirlenen deger
+    tahmin = 0
+    deneme_sayisi = 0
+    
 
 
 ----
