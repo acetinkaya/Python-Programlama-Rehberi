@@ -348,6 +348,12 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     
     print("Sıralanmış sayılar (küçükten büyüğe):", sayilar)
 
+9.9. Python "random" Kütüphenesi ile Rastgele Belirlenen Sayıyı Tahmin Etme Oyunu 
+
+    import random  # rastgele sayı üretmek için kullanılan kütüphane
+    
+
+
 ----
 
 ## 📖 Kaynak Kitaplar
