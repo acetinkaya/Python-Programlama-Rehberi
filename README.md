@@ -258,6 +258,11 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     
     print("Girilen sayılar:", sayilar)
 
+
+9.5. Kullanıcının 
+
+
+
 9.5. Kullanıcıdan Alınan Sayıların Ortalamasını Hesaplama
 
     sayilar = []
