@@ -224,7 +224,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
         if sayi % 2 == 0:
             print(sayi, "çift sayıdır.")
         else:
-            print(f"{sayi} tek sayıdır.")
+            print(sayi, "tek sayıdır.")
     except ValueError:
         print("Lütfen geçerli bir tamsayı girin.")
 
