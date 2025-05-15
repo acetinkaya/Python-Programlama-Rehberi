@@ -356,6 +356,8 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     tahmin = 0
     deneme_sayisi = 0
     
+    print("1 ile 10 arasında bir sayı tuttum. Bakalım tahmin edebilecek misin?")
+    
 
 
 ----
