@@ -339,6 +339,13 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
       except ValueError:
           print("Geçersiz giriş! Lütfen tamsayı giriniz.")
           
+    # Bubble Sort algoritmasıyla küçükten büyüğe sıralama
+    for i in range(len(sayilar)):
+        for j in range(len(sayilar) - 1):
+            if sayilar[j] > sayilar[j + 1]:
+                # Elemanları yer değiştiriyoruz
+                sayilar[j], sayilar[j + 1] = sayilar[j + 1], sayilar[j]
+    
 
 
 ----
