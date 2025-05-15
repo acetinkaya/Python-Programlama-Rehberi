@@ -332,6 +332,13 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     sayilar = []
     print("Lütfen 6 adet tamsayı giriniz:")
         
+    for i in range(6):
+      try:
+          sayi = int(input(str(i + 1) + ". sayı: "))
+          sayilar.append(sayi)
+      except ValueError:
+          print("Geçersiz giriş! Lütfen tamsayı giriniz.")
+          
 
 
 ----
