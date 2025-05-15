@@ -271,7 +271,6 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
             sayilar.append(sayi)
         except ValueError:
             print("Geçersiz giriş! Lütfen tamsayı giriniz.")
-            exit()
     
     ortalama = sum(sayilar) / len(sayilar)
     print("\nGirilen sayıların ortalaması: %.2f" % ortalama)
