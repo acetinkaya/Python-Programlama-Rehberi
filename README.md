@@ -292,16 +292,16 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
 
     sayilar = []
     print("Lütfen 6 adet tamsayı giriniz:")
-    
+        
     for i in range(6):
-        try:
-            sayi = int(input(str(i + 1) + ". sayı: "))
-            sayilar.append(sayi)
-        except ValueError:
-            print("Geçersiz giriş! Lütfen tamsayı giriniz.")
-    
+      try:
+          sayi = int(input(str(i + 1) + ". sayı: "))
+          sayilar.append(sayi)
+      except ValueError:
+          print("Geçersiz giriş! Lütfen tamsayı giriniz.")
+        
     ortalama = sum(sayilar) / len(sayilar)
-    print("\nGirilen sayıların ortalaması: %.2f" % ortalama)
+    print("Girilen sayıların ortalaması:", ortalama)
 
 9.6. Kullanıcıdan Alınan Sayıların Diziye Atılması ve Tek–Çift Sayıların Adetlerinin Belirlenmesi
 
