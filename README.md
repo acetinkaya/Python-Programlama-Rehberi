@@ -14,7 +14,7 @@ Gömülü sistem uygulamalarında algoritma geliştirmeyi ve programlamaya ilgi 
 
 # 📘 Ders Video İçerikleri:
 
-Python Programlama Dili Konu Anlatımı - 1 Videosu :> https://youtu.be/i2QxxYTaaxs
+Python Programlama Dili Konu Anlatımı - 1 (Python Programlama Diline Giriş, Değişkenler ve Veri Tipleri, Operatörler) Videosu :> https://youtu.be/i2QxxYTaaxs
 
 Python Programlama Dili Konu Anlatımı - 2 Videosu :> https://youtu.be/hHtVqEu7UZY
 
