@@ -18,6 +18,8 @@ Python Programlama Dili Konu Anlatımı - 1 Videosu :> https://youtu.be/i2QxxYTa
 
 Python Programlama Dili Konu Anlatımı - 2 Videosu :> https://youtu.be/hHtVqEu7UZY
 
+Python Programlama Dili Konu Anlatımı - 3 Videosu :> https://youtu.be/3RhAOU-VRXs
+
 Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
 
 # 📘 Ders İçerikleri:
