@@ -18,7 +18,9 @@ Python Programlama Dili Konu Anlatımı - 1
 Konusu: Python Programlama Diline Giriş, Değişkenler ve Veri Tipleri, Operatörler   
 Videosu :> https://youtu.be/i2QxxYTaaxs  
 
-Python Programlama Dili Konu Anlatımı - 2 (Kontrol Yapıları (if, if else, if elif else), Döngüler (for, while), Fonksiyonlar, Listeler ve Python Programlama Dili Kütüphaneleri) Videosu :> https://youtu.be/hHtVqEu7UZY
+Python Programlama Dili Konu Anlatımı - 2    
+Konusu: Kontrol Yapıları (if, if else, if elif else), Döngüler (for, while), Fonksiyonlar, Listeler ve Python Programlama Dili Kütüphaneleri   
+Videosu :> https://youtu.be/hHtVqEu7UZY   
 
 Python Programlama Dili Konu Anlatımı - 3 (Google Colab Üzerinde Python Uygulamaları) Videosu :> https://youtu.be/3RhAOU-VRXs
 
