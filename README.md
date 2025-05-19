@@ -18,7 +18,7 @@ Python Programlama Dili Konu Anlatımı - 1 (Python Programlama Diline Giriş, D
 
 Python Programlama Dili Konu Anlatımı - 2 (Kontrol Yapıları (if, if else, if elif else), Döngüler (for, while), Fonksiyonlar, Listeler ve Python Programlama Dili Kütüphaneleri) Videosu :> https://youtu.be/hHtVqEu7UZY
 
-Python Programlama Dili Konu Anlatımı - 3 (Python dilinde Google Colab üzerinde uygulamalar) Videosu :> https://youtu.be/3RhAOU-VRXs
+Python Programlama Dili Konu Anlatımı - 3 (Google Colab Üzerinde Python Uygulamaları) Videosu :> https://youtu.be/3RhAOU-VRXs
 
 Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
 
