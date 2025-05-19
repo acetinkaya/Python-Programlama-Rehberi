@@ -16,7 +16,7 @@ Gömülü sistem uygulamalarında algoritma geliştirmeyi ve programlamaya ilgi 
 
 Python Programlama Dili Konu Anlatımı - 1 (Python Programlama Diline Giriş, Değişkenler ve Veri Tipleri, Operatörler) Videosu :> https://youtu.be/i2QxxYTaaxs
 
-Python Programlama Dili Konu Anlatımı - 2 Videosu :> https://youtu.be/hHtVqEu7UZY
+Python Programlama Dili Konu Anlatımı - 2 (Kontrol Yapıları (if, if else, if elif else), Döngüler (for, while), Fonksiyonlar, Listeler ve Python Programlama Dili Kütüphaneleri) Videosu :> https://youtu.be/hHtVqEu7UZY
 
 Python Programlama Dili Konu Anlatımı - 3 Videosu :> https://youtu.be/3RhAOU-VRXs
 
