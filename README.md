@@ -348,7 +348,9 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
           sayilar.append(sayi)
       except ValueError:
           print("Geçersiz giriş! Lütfen tamsayı giriniz.")
-          
+    
+    print("Sıralanmamış Sayılar", sayilar)
+      
     # Bubble Sort algoritmasıyla küçükten büyüğe sıralama
     for i in range(len(sayilar)):
         for j in range(len(sayilar) - 1):
