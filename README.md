@@ -234,7 +234,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
         elif sayi > 0:
             print(sayi, "Pozitif Sayıdır.")
         else:
-            print(sayi, "Sayı 0'dır...")
+            print("Girilen Sayı 0'dır...")
     except ValueError:
         print("Lütfen Bir Sayı Giriniz.")
 
