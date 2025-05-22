@@ -182,7 +182,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
 
 | Modül Adı | Ana İşlev Grubu          | Örnek Fonksiyonlar                          | Kısaca Ne Yapar                                               |
 | --------- | ------------------------ | ------------------------------------------- | ------------------------------------------------------------- |
-| `string`  | Karakter Dizileri        | `ascii_letters`, `digits`, `punctuation`    | Hazır karakter kümeleri sağlar.                               |
+| `string`  | Metinsel İfadeler        | `ascii_letters`, `digits`, `punctuation`    | Hazır karakter kümeleri sağlar.                               |
 | `re`      | Düzenli İfadeler (regex) | `match()`, `search()`, `findall()`, `sub()` | Metin arama ve değiştirme işlemleri.                          |
 | `assert`  | Hata Ayıklama            | `assert`                                    | Koşul doğru değilse hata fırlatır (C’deki `assert.h` gibi).   |
 | `locale`  | Yerelleştirme            | `setlocale()`, `localeconv()`               | Sayı formatı, para birimi biçimi gibi yerel ayarları yönetir. |
