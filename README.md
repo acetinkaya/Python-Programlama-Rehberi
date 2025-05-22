@@ -313,7 +313,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     ortalama = sum(sayilar) / len(sayilar)
     print("Girilen sayıların ortalaması:", ortalama)
 
-9.7. Kullanıcıdan Alınan Sayıların Diziye Atılması ve Tek–Çift Sayıların Adetlerinin Belirlenmesi
+9.7. Kullanıcıdan Alınan Sayıların Listeye Atılması ve Tek–Çift Sayıların Adetlerinin Belirlenmesi
 
     sayilar = []
     tek_sayac = 0
