@@ -229,8 +229,8 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     try:
         sayi = int(input("Bir sayı girin: "))
         
-        if sayi % 2 == 0:
-            print(sayi, "çift sayıdır.")
+        if sayi < 0 == 0:
+            print(sayi, "Negatif Sayıdır.")
         else:
             print(sayi, "tek sayıdır.")
     except ValueError:
