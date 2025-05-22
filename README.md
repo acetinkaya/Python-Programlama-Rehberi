@@ -232,11 +232,11 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
         if sayi < 0:
             print(sayi, "Negatif Sayıdır.")
         elif sayi > 0:
-        
+            print(sayi, "Pozitif Sayıdır.")
         else:
             print(sayi, "Sayı 0'dır...")
     except ValueError:
-        print("Lütfen geçerli bir tamsayı girin.")
+        print("Lütfen Bir Sayı Giriniz.")
 
 9.3. Girilen Bir Değerin Sayı Olduğu Kontrol Edildikten Sonra Tek mi Çift mi Olduğunu Bulma
 
