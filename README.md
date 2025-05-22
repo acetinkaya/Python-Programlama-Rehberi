@@ -224,7 +224,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     except ValueError:
         print("Geçersiz karakter girişi yaptınız.")
 
-9.2 Girilen Bir Sayının Tek mi Çift mi Olduğunu Bulma 
+9.2 Girilen Bir Sayının Negatif mi? Pozitif mi? olduğunu Bulma
 
     try:
         sayi = int(input("Bir sayı girin: "))
