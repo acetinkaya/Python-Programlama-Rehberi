@@ -229,8 +229,10 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
     try:
         sayi = int(input("Bir sayı girin: "))
         
-        if sayi < 0 == 0:
+        if sayi < 0:
             print(sayi, "Negatif Sayıdır.")
+        elif sayi > 0:
+        
         else:
             print(sayi, "Sayı 0'dır...")
     except ValueError:
