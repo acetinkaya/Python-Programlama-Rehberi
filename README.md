@@ -232,7 +232,7 @@ Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
         if sayi < 0 == 0:
             print(sayi, "Negatif Sayıdır.")
         else:
-            print(sayi, "tek sayıdır.")
+            print(sayi, "Sayı 0'dır...")
     except ValueError:
         print("Lütfen geçerli bir tamsayı girin.")
 
