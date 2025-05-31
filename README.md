@@ -26,6 +26,8 @@ Python Programlama Dili Konu Anlatımı - 3
 Konusu: Google Colab Üzerinde Python Uygulamaları   
 Dersin Videosu :> https://youtu.be/3RhAOU-VRXs   
 
+https://youtu.be/cs44Z0Nnc78
+
 Python Programlama Dili Soru Çözüm Videosu :> https://youtu.be/Eyzd5ItzZI0
 
 # 📘 Ders İçerikleri:
